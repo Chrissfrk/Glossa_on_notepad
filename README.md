@@ -3,7 +3,7 @@ This is a .xml file that lets you write glossa on notepad
 
 Instructions 
 
-1) Download the glossa.xml file 
+1) Get the glossa.xml file 
 2) Head over to notepad ++ 
 3) On the taskbar select language --> User Defined Language --> Define your language 
 4) Click on import and add the glossa.xml file you previously downloaded 
