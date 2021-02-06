@@ -1,4 +1,4 @@
-# Glossa_on_notepad
+# Glossa on notepad
 This is a .xml file that lets you write glossa on notepad 
 
 Instructions 
