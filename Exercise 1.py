@@ -1,4 +1,4 @@
-#Exercise 1
+#Exercise 1.0
 string = str(input("Enter a sentence: ")) 
 
 def reverse(string): 
